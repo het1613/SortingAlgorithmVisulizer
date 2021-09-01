@@ -10,3 +10,6 @@ This visulizer I programmed using Python demonstrates the 8 most common sorting 
 - Any version of Python
 - All 8 sorting algorithms and the main Python file in the SAME DIRECTORY
 - Execute the main Python file only to run the visulizer
+
+# Authors
+- Het Patel - [het1613](https://github.com/het1613)
